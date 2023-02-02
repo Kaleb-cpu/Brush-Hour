@@ -1,4 +1,4 @@
-#Course title; CPNT 260 - Web Page Construction Fundamentals
+# Course title; CPNT 260 - Web Page Construction Fundamentals
 ##Assignment name; Assignment 3 - Full-page Layout
 ###Author name; Kaleb Berhane
 ###GH Pages site: https://kaleb-cpu.github.io/cpnt260-a3-Full-Page-Layout/
