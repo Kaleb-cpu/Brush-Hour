@@ -1,0 +1,96 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  line-height: 1.5em;
+}
+
+img{
+  max-width: 250px;
+  height: initial;
+  width: clamp(200px, 40%,  400px);
+  
+}
+h1{
+  font-family: WindSong, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+h4{
+  font-family:Tajawal, Geneva, Tahoma;
+  text-align: center;
+}
+header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+nav ul{
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+nav li{
+  flex: auto;
+}
+nav{
+  display: flex; */
+  /* justify-content: flex-end; */
+}
+span{
+  color: darkslategray;
+  display: inline;
+}
+a{
+  text-decoration: none;
+  color: black;
+  padding: 0.5em;
+  display:block;
+  text-align: center;
+}
+main{
+  
+  padding-left: 1em;
+  
+}
+.parent{
+  display: flex;
+  flex-wrap: wrap;
+}
+p, h2{
+  font-size: clamp(1rem, 2.5vw, 2rem); 
+  
+}
+footer{
+  text-align: center;
+  padding-top: 100px;
+}
+@media screen and (min-width: 60em) {
+  nav ul{
+    display: flex;
+    flex-direction: row; 
+  }
+  a{
+    padding: 1em;
+  }  
+  a:hover{
+  color: seashell;
+  background-color: slategray;
+  box-shadow: 0 -5px 0 darkgray inset, 500px 0 0 goldenrod inset;
+  padding: 25px;
+}
+p{
+  max-width: 40ch;
+  font-size: 20px;
+}
+
+.parent{
+  display: flex;
+  justify-content: space-evenly;
+}
+img{
+  max-width: 350px;
+}
+h2{
+  padding-left: 225px;
+}
+}
