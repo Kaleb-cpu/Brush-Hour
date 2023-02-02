@@ -3,5 +3,5 @@
 ### Author name; Kaleb Berhane
 ### GH Pages site: https://kaleb-cpu.github.io/cpnt260-a3-Full-Page-Layout/
 ### Attributions for code and/or assets you used that are not your own: w3 schools articles
-#### Helpful resource would be [Kevin Powell] (https://www.youtube.com/watch?v=wARbgs5Fmuw)
+#### Helpful resource would be [Kevin Powell](https://www.youtube.com/watch?v=wARbgs5Fmuw)
   **I typed**: *text align css*
